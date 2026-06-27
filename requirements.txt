@@ -1,0 +1,2 @@
+# Run this command every time you're working on the project:
+source .venv/bin/activate
